@@ -30,6 +30,19 @@ renderer.upstream_pending_worktree_patch_failed
 
 ## 快速使用
 
+下载源码 ZIP：
+
+[下载 main.zip](https://github.com/ggban666/codex-codex-/archive/refs/heads/main.zip)
+
+这个链接是 GitHub 自动生成的源码压缩包，不需要额外发布 Release。
+
+或者用 Git 克隆：
+
+```powershell
+git clone https://github.com/ggban666/codex-codex-.git
+cd codex-codex-
+```
+
 安装 Skill：
 
 ```powershell
