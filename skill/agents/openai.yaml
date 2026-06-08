@@ -1,0 +1,4 @@
+name: codex-windows-portable-repair-kit
+display_name: Codex Windows Portable Repair Kit
+short_description: Repair portable Windows Codex localization, plugins, Computer Use, browser/Edge, and Codex++ issues.
+default_prompt: Diagnose and repair my Windows portable Codex Desktop setup, including localization, plugin store, Computer Use, browser/Edge, and Codex++ backend compatibility.

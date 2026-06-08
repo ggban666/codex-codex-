@@ -1,0 +1,9 @@
+*.log
+*.asar
+*.asar.unpacked/
+work/
+tmp/
+*.bak
+*.backup*
+.DS_Store
+Thumbs.db
